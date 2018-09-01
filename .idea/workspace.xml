@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d122dce-0a6f-4df6-90f6-51b0c3aed907" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="100" column="23" lean-forward="false" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Init.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Model/Init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controller/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coop.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coop.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1383">
+              <caret line="84" column="40" lean-forward="false" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carrefour.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carrefour.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="61" column="43" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="61" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scraper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/Scraper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <marker date="1535752536582" expanded="true" signature="297:335" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:357" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:359" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:378" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:380" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:392" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:411" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:426" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:436" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:438" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:448" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:449" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="297:5607" ph="INSERT INTO `inputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:767" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:815" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:835" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:860" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:861" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:881" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:916" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:968" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:969" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1016" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1018" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1021" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1022" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1073" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1078" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1081" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1082" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1138" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1139" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1190" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1191" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1214" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1240" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1289" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1391" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1432" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1437" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1483" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1493" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="683:1549" ph="INSERT INTO `outputs`... " />
+                <marker date="1535752536582" expanded="true" signature="1716:1763" ph="UPDATE `inpu... " />
+                <marker date="1535752536582" expanded="true" signature="1716:1764" ph="UPDATE `inpu... " />
+                <marker date="1535752536582" expanded="true" signature="1970:2018" ph="UPDATE `inpu... " />
+                <marker date="1535752536582" expanded="true" signature="2218:2250" ph="SELECT * FRO... inputs" />
+                <marker date="1535752536582" expanded="true" signature="2218:2287" ph="SELECT i.*, inputs" />
+                <marker date="1535752536582" expanded="true" signature="2612:2651" ph="SELECT * FRO... outputs" />
+                <marker date="1535752536582" expanded="true" signature="2612:2668" ph="SELECT i.*, inputs" />
+                <marker date="1535752536582" expanded="true" signature="2612:2686" ph="SELECT * FRO... outputs" />
+                <marker date="1535752536582" expanded="true" signature="3022:3063" ph="SELECT * FRO... inputs" />
+                <marker date="1535752536582" expanded="true" signature="3022:3064" ph="SELECT * FRO... inputs" />
+                <marker date="1535752536582" expanded="true" signature="3022:3113" ph="SELECT * FRO... inputs" />
+                <marker date="1535752536582" expanded="true" signature="3022:3114" ph="SELECT * FRO... inputs" />
+                <marker date="1535752536582" expanded="true" signature="3022:3115" ph="SELECT * FRO... inputs" />
+                <marker date="1535752536582" expanded="true" signature="3325:3371" ph="UPDATE `inpu... " />
+                <marker date="1535752536582" expanded="true" signature="3599:3631" ph="UPDATE `inpu... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/export.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reset.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insertInput</find>
+      <find>insert</find>
+      <find>getInputsById</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/reset.php" />
+        <option value="$PROJECT_DIR$/export.php" />
+        <option value="$PROJECT_DIR$/Controller/api.php" />
+        <option value="$PROJECT_DIR$/carrefour.php" />
+        <option value="$PROJECT_DIR$/Model/Init.php" />
+        <option value="$PROJECT_DIR$/Model/Scraper.php" />
+        <option value="$PROJECT_DIR$/coop.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coop-carrefour-scraping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coop-carrefour-scraping" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d122dce-0a6f-4df6-90f6-51b0c3aed907" name="Default" comment="" />
+      <created>1535693105879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535693105879</updated>
+      <workItem from="1535693107528" duration="15854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15854000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17715959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="100" column="23" lean-forward="false" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carrefour.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="61" column="43" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="61" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Scraper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1535752536582" expanded="true" signature="297:335" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:357" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:359" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:378" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:380" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:392" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:411" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:426" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:436" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:438" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:448" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:449" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="297:5607" ph="INSERT INTO `inputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:767" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:815" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:835" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:860" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:861" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:881" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:916" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:968" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:969" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1016" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1018" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1021" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1022" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1073" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1078" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1081" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1082" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1138" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1139" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1190" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1191" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1214" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1240" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1289" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1391" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1432" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1437" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1483" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1493" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="683:1549" ph="INSERT INTO `outputs`... " />
+            <marker date="1535752536582" expanded="true" signature="1716:1763" ph="UPDATE `inpu... " />
+            <marker date="1535752536582" expanded="true" signature="1716:1764" ph="UPDATE `inpu... " />
+            <marker date="1535752536582" expanded="true" signature="1970:2018" ph="UPDATE `inpu... " />
+            <marker date="1535752536582" expanded="true" signature="2218:2250" ph="SELECT * FRO... inputs" />
+            <marker date="1535752536582" expanded="true" signature="2218:2287" ph="SELECT i.*, inputs" />
+            <marker date="1535752536582" expanded="true" signature="2612:2651" ph="SELECT * FRO... outputs" />
+            <marker date="1535752536582" expanded="true" signature="2612:2668" ph="SELECT i.*, inputs" />
+            <marker date="1535752536582" expanded="true" signature="2612:2686" ph="SELECT * FRO... outputs" />
+            <marker date="1535752536582" expanded="true" signature="3022:3063" ph="SELECT * FRO... inputs" />
+            <marker date="1535752536582" expanded="true" signature="3022:3064" ph="SELECT * FRO... inputs" />
+            <marker date="1535752536582" expanded="true" signature="3022:3113" ph="SELECT * FRO... inputs" />
+            <marker date="1535752536582" expanded="true" signature="3022:3114" ph="SELECT * FRO... inputs" />
+            <marker date="1535752536582" expanded="true" signature="3022:3115" ph="SELECT * FRO... inputs" />
+            <marker date="1535752536582" expanded="true" signature="3325:3371" ph="UPDATE `inpu... " />
+            <marker date="1535752536582" expanded="true" signature="3599:3631" ph="UPDATE `inpu... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1383">
+          <caret line="84" column="40" lean-forward="false" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
